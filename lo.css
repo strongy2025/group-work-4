@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(90deg, #b1bdf1 , rgb(225, 230, 243));
+}
+
+.field{
+    margin: 100px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(238, 200, 238);
+    border: none;
+    border-radius: 20px;
+}
+.lb{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: 400;
+}
+.button{
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+
+
+}
+.button:hover{
+    background-color: rgb(184, 199, 226);
+    transform: scale(1.03);
+}
+input{
+    width: 400px;
+    height: 40px;
+    border-radius: 23px;
+}
+
+i{
+    transform: translateY(-35px) translateX(190.5px);
+}
+
+
+
+ 
+
+ 
